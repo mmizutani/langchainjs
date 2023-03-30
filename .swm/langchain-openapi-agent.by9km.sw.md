@@ -86,7 +86,7 @@ Mermaid C4 Diagram
 
 <br/>
 
-<!--MERMAID {width:100}-->
+<!--MERMAID {width:50}-->
 ```mermaid
 C4Context
 title System Context diagram for Internet Banking System
